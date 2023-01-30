@@ -1,16 +1,16 @@
 {
-	"name" : "Diatonic-Pads",
+	"name" : "DiatonicPads",
 	"version" : 1,
-	"creationdate" : 3711453940,
-	"modificationdate" : 3714995878,
-	"viewrect" : [ 408.0, 112.0, 300.0, 500.0 ],
+	"creationdate" : 3757920402,
+	"modificationdate" : 3757920418,
+	"viewrect" : [ 446.0, 198.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
 	"autolocalize" : 0,
 	"contents" : 	{
 		"patchers" : 		{
-			"Diatonic-pads.maxpat" : 			{
+			"DiatonicPads.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1,
 				"toplevel" : 1
